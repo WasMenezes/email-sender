@@ -1,9 +1,9 @@
-#Email Sender - Example
+# Email Sender - Example
 
-####Guide to generate 16-digit code to configure gmail smtp:
+#### Guide to generate 16-digit code to configure gmail smtp:
 https://support.google.com/accounts/answer/185833
 
-####Payload - example 
+#### Payload - example 
 http://localhost:8080/sending-email
 ````
 {
